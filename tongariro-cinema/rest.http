@@ -1,0 +1,17 @@
+// Getting a User data
+//GET http://localhost:8080/userRoutes
+
+// Getting a Booking data
+http://localhost:8080/bookRoutes
+
+// Getting a Movie data
+//http://localhost:8080/movieRoutes
+
+// Getting a User data by id
+//GET http://localhost:8080/userRoutes/66ea41ff513f8bee14742138
+
+// Getting a Movie data by id
+//http://localhost:8080/movieRoutes/66ea4581513f8bee1474213a
+
+//Getting a Booking data by id
+//http://localhost:8080/bookRoutes/66ea4aa7753f7d8934e2c4c8
